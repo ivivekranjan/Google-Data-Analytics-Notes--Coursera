@@ -19,3 +19,4 @@ Google Data Analytics by Google on Coursera Certificate. This course explains th
 6. Data Analysis with R Programming
 7. Google Data Analytics Capstone: Complete a Case Study
 8. Analyze Data to Answer Questions
+
